@@ -22,7 +22,7 @@
     "DIST.sh"
   ],
   "dependencies": {
-    "moment": "~2.9.0",
-    "suncalc": "~1.6.0"
+    "moment": "~2.10.0",
+    "quantopy-suncalc": "~1.1.0"
   }
 }
