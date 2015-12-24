@@ -1,0 +1,28 @@
+{
+  "name": "iotdb-timers",
+  "description": "Useful timers, such as \"once a day\", \"sunset\", etc.",
+  "main": "main.js",
+  "authors": [
+    "David P. Janes"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "iotdb",
+    "timers",
+    "suncalc",
+    "moment"
+  ],
+  "homepage": "https://github.com/edave/iotdb-timers",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "samples",
+    "package.json",
+    "homestar.json",
+    "DIST.sh"
+  ],
+  "dependencies": {
+    "moment": "~2.9.0",
+    "suncalc": "~1.6.0"
+  }
+}
